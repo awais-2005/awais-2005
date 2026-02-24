@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a Full-Stack Android Developer specializing in React Native for mobile applications and Express / Node.js for backend services. With a strong background in web development, I build complete, scalable solutions from mobile UI to backend APIs.
 
 

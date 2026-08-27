@@ -1,4 +1,4 @@
-# About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25FF00&width=435&lines=Rana+Awais%2C+Full+Stack+Developer)](https://git.io/typing-svg)
 I’m a Full-Stack Android Developer specializing in React Native for mobile applications and Express / Node.js for backend services. With a strong background in web development, I build complete, scalable solutions from mobile UI to backend APIs.
 
 
